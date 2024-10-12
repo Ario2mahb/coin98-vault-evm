@@ -2,7 +2,7 @@
 # To learn more about .editorconfig see https://aka.ms/editorconfigdocs
 
 # top-most EditorConfig file
-root = true
+root = false
 
 ## ALL FILES
 [*]
